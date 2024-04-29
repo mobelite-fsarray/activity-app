@@ -1,0 +1,23 @@
+label,category,gender,ageGeneration,country,profession,partsOfTheDay
+Habit h1,Health,Female,Gen X,India,Software Engineer,night
+Habit h2,Productivity,Female,Gen Z,India,Doctor,morning
+Habit h3,Learning,Female,Millennial,India,Marketing Manager,noon
+Habit h3,Finances,Female,Baby Boomer,India,Doctor,afternoon
+Habit h3,Social,Female,Gen Z,India,Doctor,sunset
+Habit h1,Health,Female,Gen X,India,Software Engineer,night
+Habit h2,Productivity,Female,Gen Z,India,Doctor,morning
+Habit h3,Learning,Female,Millennial,India,Marketing Manager,morning
+Habit h3,Finances,Female,Baby Boomer,India,Doctor,sunset
+Habit h3,Social,Female,Gen Z,India,Doctor,night
+Habit h1,Health,Male,Gen X,India,Software Engineer,night
+Habit h2,Productivity,Male,Gen Z,India,Doctor,morning
+Habit h3,Learning,Male,Millennial,India,Marketing Manager,morning
+Habit h3,Finances,Male,Baby Boomer,India,Doctor,sunset
+Habit h3,Social,Male,Gen Z,India,Doctor,night
+Habit h3,Social,Male,Gen Z,India,Doctor,sunrise
+Habit h1,Health,Male,Gen X,India,Software Engineer,night
+Habit h2,Productivity,Male,Gen Z,India,Doctor,morning
+Habit h3,Learning,Male,Millennial,India,Marketing Manager,morning
+Habit h3,Finances,Male,Baby Boomer,India,Doctor,sunset
+Habit h3,Social,Male,Gen Z,India,Doctor,night
+Habit h3,Social,Male,Gen Z,India,Doctor,sunrise
